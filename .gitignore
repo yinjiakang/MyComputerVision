@@ -1,2 +1,26 @@
 *.jpg
 *.bmp
+*.mat
+*.idx1-ubyte
+*.csv
+*.exe
+*.ilk
+*.pdb
+*.zip
+*.m
+*.idx3-ubyte
+*.gz
+FinalProject/FinalProject.sdf
+*.sln
+*.suo
+*.lastbuildstate
+*.tlog
+*.obj
+*.rar
+手写体识别/Mnist-Dataset/mnist/Using MNIST.doc
+*.db
+FinalProject/FinalProject/my_dumped_classifier.pkl
+*.user
+FinalProject/FinalProject/Debug/vc120.idb
+*.vcxproj
+FinalProject/FinalProject/FinalProject.vcxproj.filters
